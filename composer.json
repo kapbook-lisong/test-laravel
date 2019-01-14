@@ -1,0 +1,15 @@
+{
+  "name": "string/random",
+  "authors": [
+    {
+      "name": "lisong",
+      "email": "lisong@tbook.io"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "String\\Random\\": "src/"
+    }
+  },
+  "require": {}
+}
