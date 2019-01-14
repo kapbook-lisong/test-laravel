@@ -8,7 +8,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "String\\Random\\": "src/"
+      "LisongStringTest\\Random\\": "src/"
     }
   },
   "require": {}
